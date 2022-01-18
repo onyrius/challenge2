@@ -1,3 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+header {
+  font-size: 75px;
+  font-family: Neonderthaw, cursive;
+  color: blueviolet;
+}
+
+/* body {
+  background-color: black;
+} */
+
+#criar-carta {
+  height: 30px;
+  width: 60px;
+  background-color: rgb(46, 43, 43);
+  border: blueviolet, solid, 15px;
+}
+
 .newspaper {
   background-color: antiquewhite;
   font-family: Times New Roman, Times, serif;
