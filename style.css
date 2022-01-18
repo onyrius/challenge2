@@ -10,9 +10,17 @@ header {
   color: blueviolet;
 }
 
-/* body {
-  background-color: black;
-} */
+span {
+  display: flex;
+  align-items: center;
+}
+
+#carta-gerada {
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  padding: 20px;
+}
 
 #criar-carta {
   height: 30px;
