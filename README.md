@@ -5,6 +5,17 @@
 
 ---
 
+#### Você pode conferir os outros projetos aqui:
+<ul>
+<li><a href="https://github.com/onyrius/challenge1">challenge 1: Guess Color Project</a></li>
+<li><a href="https://github.com/onyrius/challenge2">challenge 2: Mistery Letter Project</a></li>
+<li><a href="https://github.com/onyrius/challenge3">challenge 3: Pixel Art Project</a></li>
+<li><a href="https://github.com/onyrius/challenge4">challenge 4: Guess Color Project</a></li>
+</ul>
+
+---
+
+
 ## Habilidades
 
 - Manipular o DOM.
